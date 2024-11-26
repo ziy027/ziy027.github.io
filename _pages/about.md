@@ -11,9 +11,9 @@ I am currently a PhD candidate in Computational Neuroscience at Boston Universit
 
 I completed my BSc in Cognitive Science with a specialization in Neuroscience at UC San Diego, where I was fortunate to work with [Dr. Jaime A. Pineda](https://bci.ucsd.edu/Home.html), [Dr.Timothy Brady](https://bradylab.ucsd.edu/), and [Dr. Virginia de Sa](https://pages.ucsd.edu/~desa/people.html).
 
--Preprints
+Preprints
 ====
-- **Attentional failures after sleep deprivation represent moments of cerebrospinal fluid flow**
+- <small>**Attentional failures after sleep deprivation represent moments of cerebrospinal fluid flow**<small>
 
 
 
