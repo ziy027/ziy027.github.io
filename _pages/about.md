@@ -50,7 +50,7 @@ _Current Opinion in Behavioral Sciences_
 [[web](https://www.sciencedirect.com/science/article/pii/S2352154621000279)] <small>
 
 
-Conferences 
+Conference Proceedings 
 -----
 - **Cerebrospinal fluid flow closely tracks behavioral performance during an attention task**
 <br>
@@ -60,4 +60,55 @@ _Organization for Human Brain Mapping_
 <br>
 [[pdf](/files/posterv2.pdf)]<small>
 
+- **Changes in Osmolyte Concentration and Excitatory-Inhibitory Balance after 24 Hours of Total Sleep Deprivation**
+<br>
+<small>Williams, S. D., **Yang, Z.,** Anakwe, S., Licata, J., Schimmelpfennig, E., Bosli, M., Leonard, N., Vinal, I., Aon, M., Valdiviezo, Z., Tacugue, N., & Lewis, D. L.(2024) 
+<br>
+_ISMRM Workshop on MR Spectroscopy_<small>
 
+- **Fast fMRI imaging of amygdala BOLD hemodynamics in major depressive disorder after 26 hours of total sleep deprivation**
+<br>
+<small>Williams, S. D., **Yang, Z.,** Anakwe, S., Licata, J., Schimmelpfennig, E., Bosli, M., Leonard, N., Vinal, I., Aon, M., Valdiviezo, Z., Tacugue, N., 
+Fitzgerald, H., Otto, M., & Lewis, D. L.(2024) 
+<br>
+_Society of Biological Psychiatry_<small>
+
+
+- **Elucidating the theta paradox: distinct spectral characteristics of cognitive- and drowsiness-related increases in midfrontal theta EEG activity**
+<br>
+<small>Beldzik, E., **Yang, Z.,** Williams, S. D., & Lewis, D. L.(2023) 
+<br>
+_Society for Neuroscience_<small>
+
+- **SWADEE: A GUI-based tool for slow wave activity detection via EEG and eyetracking**
+<br>
+<small>**Yang, Z.,** Williams, S. D., Tacugue, N., Valdiviezo, Z., Hua, J., Ly, T., Aon, M., Vinal, I., Schimmelpfennig, E., Leonard, N. M.,
+Zimmerman, D., Yee, J., & Lewis, D. L.(2022) 
+<br>
+_Society for Neuroscience_<small>
+
+- **The MotoNet: An MRI-Compatible EEG Net with Embedded Motion Sensors**
+<br>
+<small>van der Kouwe, A., Jeong, H., **Yang, Z.,** Straney, D., Frost, R., Lewis, L., & Bonmassar, G. (2022) 
+<br>
+_ISMRM_
+[[web](https://cds.ismrm.org/protected/22MProceedings/PDFfiles/0636.html)]<small>
+
+
+- **Update on a longitudinal pilot study to assess the effects of gamma neurofeedback on cognitive function in schizophrenia patients**
+<br>
+<small>**Yang, Z.,** Pineda, J., Shu, I-W., Onton, J., Rivas, A., Zhen, N., Ring, L., Bordyug, ., Singh, F. (2018) 
+<br>
+_Society for Neuroscience_<small>
+
+- **Role of gamma neurofeedback in working memory of persons diagnosed with schizophrenia**
+<br>
+<small>Herrera, E. I.,  Singh, F., Smith, A., **Yang, Z.,** Ring, L., Amello, A., Pineda, J. (2017) 
+<br>
+_Society for Neuroscience_<small>
+
+- **Neurofeedback on Working Memory in Schizophrenia Patients**
+<br>
+<small>Singh, F., Smith, A., Dudeck, R., Cheng, R., Gosla, R., **Yang, Z.,** Pineda, J. (2016) 
+<br>
+_Society for Neuroscience_<small>
