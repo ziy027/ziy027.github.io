@@ -12,7 +12,8 @@ title                    : "Zinong Yang"
 title_separator          : "-"
 name                     : &name "Zinong Yang"
 description              : &description "PhD Candidate in Computational Neuroscience"
-url                      : ""
+url                      : https://zinongyang.github.io
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ziy027/zinongyang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
