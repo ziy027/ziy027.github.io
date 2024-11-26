@@ -26,6 +26,15 @@ Preprints
 Journal publications
 -----
 **2024**
-
 - **Distinct Spectral Pattern of Cognitive, Drowsiness, and Fatigue-related Theta/alpha EEG Activity During Wakefulness**
--
+<br>
+<small>Beldzik, E., **Yang, Z.,** Williams, S. D.,  &Lewis, D. L. 
+<br>
+_Sleep_
+<br>
+[[web](https://academic.oup.com/sleep/article/47/Supplement_1/A78/7654301)] <small>
+
+<br>
+
+
+
