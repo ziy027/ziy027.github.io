@@ -13,9 +13,9 @@ I completed my BSc in Cognitive Science with a specialization in Neuroscience at
 
 Preprints
 -----
-- <small>**Attentional failures after sleep deprivation represent moments of cerebrospinal fluid flow**<small>
-**Yang, Z.,** Williams, S. D., Beldzik, E., Anakwe, S., Schimmelpfennig, E., &Lewis, D. L.
-[preprint](https://www.biorxiv.org/content/10.1101/2024.11.15.623271v1)
+- **Attentional failures after sleep deprivation represent moments of cerebrospinal fluid flow**
+-<small>**Yang, Z.,** Williams, S. D., Beldzik, E., Anakwe, S., Schimmelpfennig, E., &Lewis, D. L.
+-[preprint](https://www.biorxiv.org/content/10.1101/2024.11.15.623271v1)<small>
 
 
 
