@@ -15,7 +15,7 @@ Preprints
 -----
 - **Attentional failures after sleep deprivation represent moments of cerebrospinal fluid flow**
 <br>
-<small>**Yang, Z.,** Williams, S. D., Beldzik, E., Anakwe, S., Schimmelpfennig, E., &Lewis, D. L.
+<small>**Yang, Z.,** Williams, S. D., Beldzik, E., Anakwe, S., Schimmelpfennig, E., & Lewis, D. L.
 <br>
 [[preprint](https://www.biorxiv.org/content/10.1101/2024.11.15.623271v1)]<small>
 
@@ -28,7 +28,7 @@ Journal publications
 **2024**
 - **Distinct Spectral Pattern of Cognitive, Drowsiness, and Fatigue-related Theta/alpha EEG Activity During Wakefulness**
 <br>
-<small>Beldzik, E., **Yang, Z.,** Williams, S. D.,  &Lewis, D. L. 
+<small>Beldzik, E., **Yang, Z.,** Williams, S. D.,  & Lewis, D. L. 
 <br>
 _Sleep_
 <br>
@@ -36,5 +36,13 @@ _Sleep_
 
 <br>
 
+**2023**
+- **EEG-LLAMAS: A low-latency neurofeedback platform for artifact reduction in EEG-fMRI**
+<br>
+<small>Levitt, J., **Yang, Z.,** Williams, S. D., Espinosa S. E. L., Garcia-Casal, A., & Lewis, D. L. 
+<br>
+_NeuroImage_
+<br>
+[[web](https://www.sciencedirect.com/science/article/pii/S1053811923002380)] <small>
 
-
+<br>
