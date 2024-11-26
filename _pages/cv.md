@@ -7,4 +7,5 @@ redirect_from:
   - /resume
 ---
 CV
-![CV](/files/CV_zy_2024.pdf)
+
+<embed src="/files/CV_zy_2024.pdf" width="100%" height="600px" type="application/pdf">
