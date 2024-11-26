@@ -18,5 +18,9 @@ Preprints
 -[preprint](https://www.biorxiv.org/content/10.1101/2024.11.15.623271v1)<small>
 
 
+Journal publications
+-----
+**2024**
 
-
+- **Distinct Spectral Pattern of Cognitive, Drowsiness, and Fatigue-related Theta/alpha EEG Activity During Wakefulness**
+-
