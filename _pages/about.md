@@ -46,3 +46,14 @@ _NeuroImage_
 [[web](https://www.sciencedirect.com/science/article/pii/S1053811923002380)] <small>
 
 <br>
+
+**2021**
+- **Imaging the temporal dynamics of brain states with highly sampled fMRI**
+<br>
+<small>**Yang, Z.,** & Lewis, D. L. 
+<br>
+_Current Opinion in Behavioral Sciences_
+<br>
+[[web](https://www.sciencedirect.com/science/article/pii/S2352154621000279)] <small>
+
+
