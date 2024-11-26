@@ -18,10 +18,7 @@ Preprints
 <small>**Yang, Z.,** Williams, S. D., Beldzik, E., Anakwe, S., Schimmelpfennig, E., & Lewis, D. L.
 <br>
 [[preprint](https://www.biorxiv.org/content/10.1101/2024.11.15.623271v1)]<small>
-
-
 <br>
-
 
 Journal publications
 -----
@@ -33,9 +30,7 @@ Journal publications
 _Sleep_
 <br>
 [[web](https://academic.oup.com/sleep/article/47/Supplement_1/A78/7654301)] <small>
-
 <br>
-
 **2023**
 - **EEG-LLAMAS: A low-latency neurofeedback platform for artifact reduction in EEG-fMRI**
 <br>
@@ -44,9 +39,7 @@ _Sleep_
 _NeuroImage_
 <br>
 [[web](https://www.sciencedirect.com/science/article/pii/S1053811923002380)] <small>
-
 <br>
-
 **2021**
 - **Imaging the temporal dynamics of brain states with highly sampled fMRI**
 <br>
