@@ -49,6 +49,15 @@ _Current Opinion in Behavioral Sciences_
 <br>
 [[web](https://www.sciencedirect.com/science/article/pii/S2352154621000279)] <small>
 
+<br>
+
+Honors and Awards
+-----
+<ul style="margin:0 0 5px;">
+  <li>Organization for Human Brain Mapping Merit Award, 2024</li>
+  <li>Kavli Summer Institute in Cognitive Neuroscience Fellow, 2022</li>
+</ul>
+<br>
 
 Conference Proceedings 
 -----
