@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Zinong Yang"
 title_separator          : "-"
 name                     : &name "Zinong Yang"
-description              : &description "personal description"
+description              : &description "PhD Candidate in Computational Neuroscience"
 url                      : https://zinongyang.github.io
 repository               : "ziy027/zinongyang.github.io"
 
@@ -20,7 +20,7 @@ repository               : "ziy027/zinongyang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Zinong Yang"
   pronouns         : "She/Her"  
   bio              : "Short biography for the left-hand sidebar"
