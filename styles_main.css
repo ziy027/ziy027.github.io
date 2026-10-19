@@ -233,6 +233,42 @@
 
         .publication-content {
             flex: 1;
+            min-width: 0;
+        }
+
+        .publication-metrics {
+            flex: 0 0 110px;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 8px;
+            padding-top: 4px;
+        }
+
+        .citation-badge {
+            display: inline-flex;
+            font-size: 12px;
+            line-height: 20px;
+            color: #333 !important;
+            border: 1px solid #aaa;
+            border-radius: 3px;
+            overflow: hidden;
+            white-space: nowrap;
+        }
+
+        .citation-badge span {
+            padding: 0 5px;
+        }
+
+        .citation-badge span:first-child {
+            background: #eee;
+        }
+
+        .citation-count {
+            min-width: 20px;
+            text-align: center;
+            border-left: 1px solid #aaa;
+            background: white;
         }
 
         .publication-content table {
@@ -290,6 +326,11 @@
             .publication-image {
                 flex: none;
                 margin: 0 auto;
+            }
+
+            .publication-metrics {
+                flex: none;
+                align-items: center;
             }
 
             .image-text-wrapper {
