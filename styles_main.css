@@ -247,8 +247,8 @@
 
         /* Altmetric's default donut is 64px; display it at half size. */
         .publication-metrics .altmetric-embed[data-badge-type="donut"] img {
-            width: 40px !important;
-            height: 40px !important;
+            width: 50px !important;
+            height: 50px !important;
         }
 
         .citation-badge {
