@@ -245,6 +245,12 @@
             padding-top: 4px;
         }
 
+        /* Altmetric's default donut is 64px; display it at half size. */
+        .publication-metrics .altmetric-embed[data-badge-type="donut"] img {
+            width: 32px !important;
+            height: 32px !important;
+        }
+
         .citation-badge {
             display: inline-flex;
             font-size: 12px;
